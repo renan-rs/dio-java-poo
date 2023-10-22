@@ -1,4 +1,4 @@
-package dev.renanrs;
+package dev.renanrs.banco;
 
 public class ContaCorrente extends Conta {
 
